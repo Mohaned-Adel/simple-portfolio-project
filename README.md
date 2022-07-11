@@ -1,11 +1,26 @@
-# Simple Portfolio Project
+# Portfolio
+![HTML](https://img.shields.io/badge/HTML-v5-red)
+![CSS](https://img.shields.io/badge/CSS-v3-blue)
 
-It is a simple project from udacity
+<p align="center">
+    <img src="./Images/template.png" alt="Landing Page Image">
+</p>
 
-you can clone and open it:- 
+## Preview
+you can see it from here https://mohaned-simpleportfoilopage.netlify.app
 
-```
-  git clone https://github.com/Mohaned-Adel/simple-portfolio-project.git
-```
+## Description
 
-then cd into the file and opne index.html
+Personal project to practice on web technology from million arab coders program
+
+## Download
+
+1. Clone Project:
+    ```
+        $ git clone https://github.com/Mohaned-Adel/simple-portfolio-project.git
+    ```
+2. open it:
+    open it with your code editor or open the index.html file.
+
+3. enjoy it: 
+    Start Hacking
